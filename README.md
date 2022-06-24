@@ -8,3 +8,5 @@
 
 ## Big Data
 - Big Data Fundamentos 3.0 (https://www.datascienceacademy.com.br/course/big-data-fundamentos-3)
+
+## Web Scraping
